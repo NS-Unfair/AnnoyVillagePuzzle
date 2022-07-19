@@ -1,4 +1,4 @@
-# AnnoyVillage
+# Blocks of War: Village of Annoyance
 An embarrassingly bad puzzle game made by an idiot named Evman2k (me)
 You can play my bad game [here](https://www.lexaloffle.com/bbs/?tid=42195).
 
